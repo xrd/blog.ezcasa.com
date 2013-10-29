@@ -30,7 +30,7 @@ author :
 #
 JB :
   version : 0.3.0
-  bootswatch: cerulean
+  bootswatch: amelia
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
   #
