@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title: "EZcasa"
+title: "A blog on the easy life."
 tagline: "A happy, simple casa."
 author : 
   name : Robert Louis Stevenson
@@ -30,7 +30,7 @@ author :
 #
 JB :
   version : 0.3.0
-  bootswatch: amelia
+  bootswatch: cosmo
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
   #
